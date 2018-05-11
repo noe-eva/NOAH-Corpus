@@ -2,18 +2,18 @@
 NOAH's Corpus of Swiss German Dialects
 **************************************
 
-*Release 2.1* -> Corrections of Release 2.0
+*Release 3.0*
 
 
 Content
 -------
 NOAH's Corpus of Swiss German Dialects contains five XML files.
 Each file contains Swiss German texts in a different text genre:
-- BlickAmAbend.xml: newspaper articles from "Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013 [1]
-- Blogs.xml: BlogSpot blogs, extracted 31 January, 2014 [2]
-- SwatchAnnualReport.xml: SWATCH annual report from 2012 [3]
-- ViktorSchobinger.xml: criminal novels by Viktor Schobinger [4]
-- Wikipedia.xml: articles from the alemannic Wikipedia [5]
+- blick.xml: newspaper articles from "Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013 [1]
+- blog.xml: BlogSpot blogs, extracted 31 January, 2014 [2]
+- swatch.xml: SWATCH annual report from 2012 [3]
+- schobinger.xml: criminal novels by Viktor Schobinger [4]
+- wiki.xml: articles from the alemannic Wikipedia [5]
 
 [1] http://epaper.blick.ch/webreader/baa/download/?doc=BAA280513ZH
 [2] http://alessandrainitaly.blogspot.ch/, http://alinesabroad.blogspot.ch/, http://anitainmexico.blogspot.ch/
@@ -33,4 +33,5 @@ Each article in the XML files contains a title and, where known, the dialect it 
 
 License
 -------
-This resource is freely available for research, education and evaluation. 
+Copyright of the texts is held by their authors. 
+Our annotations are licensed under a Creative Commons Attribution 4.0 International License. 
