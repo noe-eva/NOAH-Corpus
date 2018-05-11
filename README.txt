@@ -2,7 +2,7 @@
 NOAH's Corpus of Swiss German Dialects
 **************************************
 
-*Release 2.0* -> Contains 115'000 tokens (Release 1.0 extended by ca. 41’000) and identifiers adjusted to make it valid XML (don’t start with a number)
+*Release 2.1* -> Corrections of Release 2.0
 
 
 Content
