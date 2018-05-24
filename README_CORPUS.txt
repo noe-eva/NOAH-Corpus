@@ -2,7 +2,7 @@
 NOAH's Corpus of Swiss German Dialects
 **************************************
 
-*Release 3.0*
+*Release 2.1* -> Corrections of Release 2.0
 
 
 Content
@@ -33,5 +33,4 @@ Each article in the XML files contains a title and, where known, the dialect it 
 
 License
 -------
-Copyright of the texts is held by their authors. 
-Our annotations are licensed under a Creative Commons Attribution 4.0 International License. 
+This resource is freely available for research, education and evaluation. 

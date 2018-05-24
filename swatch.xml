@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <document dialect="various" title="?">
   <article n="0" dialect="various" title="Aargauerdütsch">
     <s n="0-0">
@@ -3231,50 +3232,49 @@
       <w n="2-56-3" pos="FM" verified="no">in</w>
       <w n="2-56-4" pos="FM" verified="no">Motorsports</w>
       <w n="2-56-5" pos="$." verified="no">!</w>
-            <w n="2-57-0" pos="$(" verified="no">»</w>
+      <w n="2-56-6" pos="$(" verified="no">»</w>
     </s>
     <s n="2-57">
-
-      <w n="2-57-1" pos="ART" verified="no">S’</w>
-      <w n="2-57-2" pos="NN" verified="no">Engagement</w>
-      <w n="2-57-3" pos="APPR" verified="no">vo</w>
-      <w n="2-57-4" pos="ART" verified="no">dr</w>
-      <w n="2-57-5" pos="NN" verified="no">Manufaktur</w>
-      <w n="2-57-6" pos="APPR" verified="no">us</w>
-      <w n="2-57-7" pos="FM" verified="no">Le</w>
-      <w n="2-57-8" pos="NE" verified="no">Brassus</w>
-      <w n="2-57-9" pos="$(" verified="no">(</w>
-      <w n="2-57-10" pos="NE" verified="no">Vallée</w>
-      <w n="2-57-11" pos="NE" verified="no">de</w>
-      <w n="2-57-12" pos="NE" verified="no">Joux</w>
-      <w n="2-57-13" pos="$," verified="no">,</w>
-      <w n="2-57-14" pos="NE" verified="no">VD</w>
-      <w n="2-57-15" pos="$(" verified="no">)</w>
-      <w n="2-57-16" pos="APPRART" verified="no">im</w>
-      <w n="2-57-17" pos="NN" verified="no">Universum</w>
-      <w n="2-57-18" pos="APPR" verified="no">vo</w>
-      <w n="2-57-19" pos="ART" verified="no">de</w>
-      <w n="2-57-20" pos="NN" verified="no">GT-Renne</w>
-      <w n="2-57-21" pos="VAFIN" verified="no">het</w>
-      <w n="2-57-22" pos="CARD" verified="no">2012</w>
-      <w n="2-57-23" pos="ADJD" verified="no">unvrminderet</w>
-      <w n="2-57-24" pos="VVPP" verified="no">aghalte</w>
-      <w n="2-57-25" pos="KON" verified="no">und</w>
-      <w n="2-57-26" pos="PRF" verified="no">sich</w>
-      <w n="2-57-27" pos="ADV" verified="no">erschtmols</w>
-      <w n="2-57-28" pos="APPR" verified="no">in</w>
-      <w n="2-57-29" pos="NE" verified="no">Asie</w>
-      <w n="2-57-30" pos="APPR" verified="no">mit</w>
-      <w n="2-57-31" pos="ART" verified="no">dr</w>
-      <w n="2-57-32" pos="NN" verified="no">Lancierig</w>
-      <w n="2-57-33" pos="APPRART" verified="no">vom</w>
-      <w n="2-57-34" pos="NE" verified="no">Lamborghini</w>
-      <w n="2-57-35" pos="NE" verified="no">Blancpain</w>
-      <w n="2-57-36" pos="NE" verified="no">Super</w>
-      <w n="2-57-37" pos="NE" verified="no">Trofeo</w>
-      <w n="2-57-38" pos="NE" verified="no">Asia</w>
-      <w n="2-57-39" pos="VVPP" verified="no">manifeschtiert</w>
-      <w n="2-57-40" pos="$." verified="no">.</w>
+      <w n="2-57-0" pos="ART" verified="no">S’</w>
+      <w n="2-57-1" pos="NN" verified="no">Engagement</w>
+      <w n="2-57-2" pos="APPR" verified="no">vo</w>
+      <w n="2-57-3" pos="ART" verified="no">dr</w>
+      <w n="2-57-4" pos="NN" verified="no">Manufaktur</w>
+      <w n="2-57-5" pos="APPR" verified="no">us</w>
+      <w n="2-57-6" pos="FM" verified="no">Le</w>
+      <w n="2-57-7" pos="NE" verified="no">Brassus</w>
+      <w n="2-57-8" pos="$(" verified="no">(</w>
+      <w n="2-57-9" pos="NE" verified="no">Vallée</w>
+      <w n="2-57-10" pos="NE" verified="no">de</w>
+      <w n="2-57-11" pos="NE" verified="no">Joux</w>
+      <w n="2-57-12" pos="$," verified="no">,</w>
+      <w n="2-57-13" pos="NE" verified="no">VD</w>
+      <w n="2-57-14" pos="$(" verified="no">)</w>
+      <w n="2-57-15" pos="APPRART" verified="no">im</w>
+      <w n="2-57-16" pos="NN" verified="no">Universum</w>
+      <w n="2-57-17" pos="APPR" verified="no">vo</w>
+      <w n="2-57-18" pos="ART" verified="no">de</w>
+      <w n="2-57-19" pos="NN" verified="no">GT-Renne</w>
+      <w n="2-57-20" pos="VAFIN" verified="no">het</w>
+      <w n="2-57-21" pos="CARD" verified="no">2012</w>
+      <w n="2-57-22" pos="ADJD" verified="no">unvrminderet</w>
+      <w n="2-57-23" pos="VVPP" verified="no">aghalte</w>
+      <w n="2-57-24" pos="KON" verified="no">und</w>
+      <w n="2-57-25" pos="PRF" verified="no">sich</w>
+      <w n="2-57-26" pos="ADV" verified="no">erschtmols</w>
+      <w n="2-57-27" pos="APPR" verified="no">in</w>
+      <w n="2-57-28" pos="NE" verified="no">Asie</w>
+      <w n="2-57-29" pos="APPR" verified="no">mit</w>
+      <w n="2-57-30" pos="ART" verified="no">dr</w>
+      <w n="2-57-31" pos="NN" verified="no">Lancierig</w>
+      <w n="2-57-32" pos="APPRART" verified="no">vom</w>
+      <w n="2-57-33" pos="NE" verified="no">Lamborghini</w>
+      <w n="2-57-34" pos="NE" verified="no">Blancpain</w>
+      <w n="2-57-35" pos="NE" verified="no">Super</w>
+      <w n="2-57-36" pos="NE" verified="no">Trofeo</w>
+      <w n="2-57-37" pos="NE" verified="no">Asia</w>
+      <w n="2-57-38" pos="VVPP" verified="no">manifeschtiert</w>
+      <w n="2-57-39" pos="$." verified="no">.</w>
     </s>
     <s n="2-58">
       <w n="2-58-0" pos="ART" verified="no">Dye</w>
