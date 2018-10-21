@@ -16,7 +16,7 @@ Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing o
 Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging." _COLING 2014_ (2014): 85.
 ([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:bTM20JKWJOEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWZ8ppsY9pJoIzZ875diPbzupTKVU6fYN&scisf=4&ct=citation&cd=-1&hl=en)) ([PDF](https://www.aclweb.org/anthology/W/W14/W14-5310.pdf)) ([Poster](http://kitt.cl.uzh.ch/kitt/noah/vardial2014_poster.pdf))
 
-### [Swiss German NLP Resources and Projects](./swiss-german.md)
+## [Swiss German NLP Resources and Projects](./swiss-german-nlp.md)
 
 # Information about Swiss German Dialects
 
