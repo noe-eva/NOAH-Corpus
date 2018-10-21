@@ -7,11 +7,11 @@ We provide PoS tag annotated Swiss German text as _xml_ files as well as a PoS t
 
 NOAH's Corpus of Swiss German Dialects contains five XML files. Each file contains Swiss German texts in a different text genre:
 
-- BlickAmAbend.xml: newspaper articles from "Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013 [1](http://epaper.blick.ch/webreader/baa/download/?doc=BAA280513ZH)
-- Blogs.xml: BlogSpot blogs, extracted January 31, 2014 [2](http://alessandrainitaly.blogspot.ch/), [3](http://alinesabroad.blogspot.ch/), [4](http://anitainmexico.blogspot.ch/) 
-- SwatchAnnualReport.xml: SWATCH annual report from 2012 [5](http://www.forum-helveticum.ch/logicio/client/forumhelveticum/file/news/SwatchJahresbericht2012.pdf) 
-- ViktorSchobinger.xml: criminal novels by Viktor Schobinger [6](http://www.zuerituetsch.ch/) 
-- Wikipedia.xml: articles from the alemannic Wikipedia, extracted April 10, 2012 [7](http://als.wikipedia.org)
+- _blick.xml_: newspaper articles from ["Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013](http://epaper.blick.ch/webreader/baa/download/?doc=BAA280513ZH)
+- _blogs.xml_: BlogSpot blogs, extracted January 31, 2014 [1](http://alessandrainitaly.blogspot.ch/), [2](http://alinesabroad.blogspot.ch/), [3](http://anitainmexico.blogspot.ch/) 
+- _swatch.xml_: [SWATCH annual report 2012](http://www.forum-helveticum.ch/logicio/client/forumhelveticum/file/news/SwatchJahresbericht2012.pdf)
+- _schobinger.xml_: [criminal novels by Viktor Schobinger](http://www.zuerituetsch.ch/) 
+- _wiki.xml_: articles from the [alemannic Wikipedia](http://als.wikipedia.org), extracted April 10, 2012
 
 
 
