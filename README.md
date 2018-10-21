@@ -1,4 +1,4 @@
-# Introduction
+# Swiss German PoS Tagging
 
 Swiss German is a dialect continuum whose dialects are very different from Standard German, the official language of the German speaking part of Switzerland. However, when dealing with Swiss German in Natural Language Processing, usually the detour through Standard German is taken. As writing in Swiss German has become more and more popular in recent years, we would like to provide data and resources to serve as a stepping stone to automatically process texts written in these dialects.
 
@@ -18,9 +18,5 @@ Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus
 
 ## [Swiss German NLP Resources and Projects](./swiss-german-nlp.md)
 
-# Information about Swiss German Dialects
+## [Information about Swiss German Dialects](./swiss-german.md)
 
-- [Kleiner Sprachatlas der Deutschen Schweiz](http://www.ksds.uzh.ch/de.html)
-- Swiss German dictionary: [Schweizerisches Idiotikon](https://www.idiotikon.ch/)
-- [Mundartforum](http://mundartforum.ch/neuigkeiten/)
-- [SNF-AGORA Citizen Linguistics](https://www.linguistik.uzh.ch/en/forschung/agora.html)
