@@ -18,6 +18,6 @@ Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus
 
 # Talks
 
-IBM Developer UnConference Zürich, 18.1.2018 ([slides]())
+[IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides]())
 
-[NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides]())
+[NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
