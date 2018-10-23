@@ -13,10 +13,14 @@
        
                 <fieldset style="border-radius:0.3rem">
                     <legend>Output</legend>
-                    <iframe style="border-width:0px;width:100%  " name="resultat" id="resultat" onLoad="autoResize('resultat');" src="" marginwidth="0" marginheight="0" align="left" scrolling="yes" >
+                    <iframe style="border-width:0px;width:100%  " name="resultat" id="resultat" onLoad="resizeIframe('resultat');" src="" marginwidth="0" marginheight="0" align="left" scrolling="yes" >
                         <p>Your browser does not support  frames, sorry!</p>
                     </iframe>
                 </fieldset>
       
 </form>
-
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
