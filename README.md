@@ -19,6 +19,6 @@ Nora Hollenstein & Noëmi Aepli. _Compilation of a Swiss German Dialect Corpus a
 
 # Talks
 
-_Swiss German NLP_ [IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides](/docs/IBM_UnConference_2018_gsw.pdf))
+_Swiss German NLP_, [IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides](/docs/IBM_UnConference_2018_gsw.pdf))
 
-_Swiss German NLP_ [NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
+_Swiss German NLP_, [NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
