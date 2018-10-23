@@ -8,17 +8,17 @@ Such a situation is a challenging task for NLP and we would like to provide data
 
 # Publications
 
-Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." [SwissText](https://www.swisstext.org/) 2018: 116.  ([PDF](/docs/swisstext_2018_abstracts.pdf) ([poster](/docs/swisstext_2018_noah.pdf))
+Noëmi Aepli, Nora Hollenstein, Simon Clematide. _NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects._ [SwissText](https://www.swisstext.org/) 2018: 116.  ([PDF](/docs/swisstext_2018_abstracts.pdf) ([poster](/docs/swisstext_2018_noah.pdf))
 
-Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing of Swiss German Dialects." [GSCL](https://www.gscl.org/) 2015: 108.
+Nora Hollenstein & Noëmi Aepli. _A Resource for Natural Language Processing of Swiss German Dialects._ [GSCL](https://www.gscl.org/) 2015: 108.
 ([PDF](https://pdfs.semanticscholar.org/e250/0609bd7dc44f43f22560c8af69fccc3b7afd.pdf)) ([poster](/docs/gscl2015_poster.pdf))
 
-Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging." [VarDial@COLING 2014](http://corporavm.uni-koeln.de/vardial/): 85.
+Nora Hollenstein & Noëmi Aepli. _Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging._ [VarDial@COLING 2014](http://corporavm.uni-koeln.de/vardial/): 85.
 ([PDF](http://www.aclweb.org/anthology/W14-5310)) ([poster](/docs/vardial2014_poster.pdf))
 
 
 # Talks
 
-[IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides](/docs/IBM_UnConference_2018_gsw.pdf))
+_Swiss German NLP_ [IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides](/docs/IBM_UnConference_2018_gsw.pdf))
 
-[NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
+_Swiss German NLP_ [NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
