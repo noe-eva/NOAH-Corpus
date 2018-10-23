@@ -17,7 +17,6 @@
                         <p>Your browser does not support  frames, sorry!</p>
                     </iframe>
                 </fieldset>
-      
 </form>
 <script>
   function resizeIframe(obj) {
