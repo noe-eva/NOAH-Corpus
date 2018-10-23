@@ -1,4 +1,4 @@
-<form action="/kitt/cgi-bin/noah/gsw_noah.cgi" method="POST" accept-charset="UTF-8" name="FormName" target="resultat">
+<form action="https://pub.cl.uzh.ch/demo/noah/wapiti.cgi" method="POST" accept-charset="UTF-8" name="FormName" target="resultat">
 <h2>Swiss German  Part-of-Speech Tagging Demo</h2>
 
 This is the demo for Noah corpus.
