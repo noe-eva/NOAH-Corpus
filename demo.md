@@ -13,7 +13,7 @@
        
                 <fieldset>
                     <legend>Output</legend>
-                    <iframe style="border-width:0px;width:100%  " name="resultat" id="resultat" onLoad="autoResize('resultat');" src="denada.md" marginwidth="0" marginheight="0" align="left" scrolling="yes" >
+                    <iframe style="border-width:0px;width:100%  " name="resultat" id="resultat" onLoad="autoResize('resultat');" src="" marginwidth="0" marginheight="0" align="left" scrolling="yes" >
                         <p>Your browser does not support  frames, sorry!</p>
                     </iframe>
                 </fieldset>
