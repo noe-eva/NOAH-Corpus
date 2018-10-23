@@ -1,17 +1,17 @@
 # Corpus
 
-We provide PoS tag annotated Swiss German text as _xml_ files as well as a PoS tagger model trained on NOAH's Corpus.
+We provide PoS-tag annotated Swiss German text as _xml_ files as well as a PoS-tagger model trained on NOAH's Corpus.
 
 
 ## Content
 
-NOAH's Corpus of Swiss German Dialects contains five XML files. Each file contains Swiss German texts in a different text genre:
+NOAH's Corpus of Swiss German Dialects contains five _xml_ files. Each file contains Swiss German texts of a different genre:
 
-- _blick.xml_: newspaper articles from ["Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013](http://epaper.blick.ch/webreader/baa/download/?doc=BAA280513ZH)
-- _blogs.xml_: BlogSpot blogs, extracted January 31, 2014 [1](http://alessandrainitaly.blogspot.ch/), [2](http://alinesabroad.blogspot.ch/), [3](http://anitainmexico.blogspot.ch/) 
-- _swatch.xml_: [SWATCH annual report 2012](http://www.forum-helveticum.ch/logicio/client/forumhelveticum/file/news/SwatchJahresbericht2012.pdf)
-- _schobinger.xml_: [criminal novels by Viktor Schobinger](http://www.zuerituetsch.ch/) 
-- _wiki.xml_: articles from the [alemannic Wikipedia](http://als.wikipedia.org), extracted April 10, 2012
+- _blick.xml_ newspaper articles from ["Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013](/docs/blick_am_abend_chde_2013.pdf)
+- _blogs.xml_ "BlogSpot" blogs, extracted 31.1.2014 [blog1](http://alessandrainitaly.blogspot.ch/), [blog2](http://alinesabroad.blogspot.ch/), [blog3](http://anitainmexico.blogspot.ch/) 
+- _swatch.xml_ [SWATCH annual report 2012](/docs/2012_annual_report_complete_ch.pdf)
+- _schobinger.xml_ extracts of criminal novels by [Viktor Schobinger](http://www.zuerituetsch.ch/) 
+- _wiki.xml_ articles from the [Alemannic Wikipedia](http://als.wikipedia.org), extracted 10.4.2012
 
 
 
