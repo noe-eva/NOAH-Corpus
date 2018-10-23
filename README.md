@@ -1,18 +1,19 @@
 # Swiss German PoS Tagging
 
-Swiss German is a dialect continuum whose dialects are very different from Standard German, the official language of the German speaking part of Switzerland. However, when dealing with Swiss German in Natural Language Processing, usually the detour through Standard German is taken. As writing in Swiss German has become more and more popular in recent years, we would like to provide data and resources to serve as a stepping stone to automatically process texts written in these dialects.
+Swiss German is a dialect continuum of the Alemannic dialect group. It comprises numerous varieties used in the German-speaking part of Switzerland. Although mainly oral varieties (_Mundarten_), they are frequently used in written communication. On the basis of their high acceptance in the Swiss culture and with the introduction of digital communication, Swiss German has undergone a spread over all kinds of communication forms and social media. Considering the lack of standard spelling rules, this leads to a huge linguistic variability because people write the way they speak. 
 
-We compiled NOAH's Corpus of Swiss German Dialects consisting of various text genres, manually annotated with Part-of-Speech tags. Furthermore, we applied this corpus as training set to a statistical Part-of-Speech tagger and a dialect identification model.
+Such a situation is a challenging task for NLP and we would like to provide data and resources to serve as a stepping stone to automatically process texts written in these dialects. We compiled NOAH's Corpus of Swiss German Dialects consisting of various text genres, manually annotated with Part-of-Speech tags. Furthermore, we applied this corpus as training set to a statistical Part-of-Speech tagger and a dialect identification model.
+
 
 
 # Publications
 
-Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." _SwissText 2018_: 116.  ([PDF](/docs/swisstext_2018_abstracts.pdf) ([poster](/docs/swisstext_2018_noah.pdf))
+Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." [SwissText](https://www.swisstext.org/) 2018: 116.  ([PDF](/docs/swisstext_2018_abstracts.pdf) ([poster](/docs/swisstext_2018_noah.pdf))
 
-Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing of Swiss German Dialects." _GSCL 2015_: 108.
+Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing of Swiss German Dialects." [GSCL](https://www.gscl.org/) 2015: 108.
 ([PDF](https://pdfs.semanticscholar.org/e250/0609bd7dc44f43f22560c8af69fccc3b7afd.pdf)) ([poster](/docs/gscl2015_poster.pdf))
 
-Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging." _COLING 2014_: 85.
+Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging." [VarDial@COLING 2014](http://corporavm.uni-koeln.de/vardial/): 85.
 ([PDF](http://www.aclweb.org/anthology/W14-5310)) ([poster](/docs/vardial2014_poster.pdf))
 
 
