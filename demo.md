@@ -1,12 +1,12 @@
 
-   <h1>Swiss German  Part-of-Speech Tagging Demo</h1>
+   <h2>Swiss German  Part-of-Speech Tagging Demo</h2>
 <form action="https://pub.cl.uzh.ch/demo/noah/wapiti.cgi" method="POST" accept-charset="UTF-8" name="FormName" target="resultat">
  
 
                 <fieldset>
-                    <input class="btn btn-outline-success" type="submit" value="Analyze" name="submitButtonName">
+                    <input style="font:#606c71; border-color:#c0c0c0" class="btn" type="submit" value="Analyze" name="submitButtonName">
                     <legend>Input </legend>
-                    <textarea name="t" style="width:100%" rows="12" cols="120">Das isch es Bispiili mitem Wort Chuchichäschtli drin .</textarea>
+                    <textarea name="t" style="width:100%" rows="5" cols="180">Das isch es Bispiili mitem Wort Chuchichäschtli drin .</textarea>
                     Format: words separated by white-space
                 </fieldset>
 
