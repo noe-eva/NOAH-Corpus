@@ -1,10 +1,8 @@
 
-
+   <h1>Swiss German  Part-of-Speech Tagging Demo</h1>
 <form action="https://pub.cl.uzh.ch/demo/noah/wapiti.cgi" method="POST" accept-charset="UTF-8" name="FormName" target="resultat">
-    <h1>Swiss German  Part-of-Speech Tagging Demo</h1>
-    <table>
-        <tr>
-            <td width="20%">
+ 
+
                 <fieldset>
                     <input type="submit" value="Analyze" name="submitButtonName">
                     <legend>Input </legend>
@@ -20,13 +18,14 @@ drin
 </textarea>
                     Format: words separated by white-space
                 </fieldset>
-            <td>
+
+       
                 <fieldset>
                     <legend>Output</legend>
                     <iframe style="width:100%  " name="resultat" id="resultat" onLoad="autoResize('resultat');" src="denada.md" marginwidth="0" marginheight="0" align="left" scrolling="yes" >
                         <p>Ihr Browser kann leider keine eingebetteten Frames anzeigen</p>
                     </iframe>
                 </fieldset>
-    </table>
+      
 </form>
-</div><!-- end #content -->
+
