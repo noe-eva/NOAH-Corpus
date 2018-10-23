@@ -7,11 +7,11 @@ We provide PoS-tag annotated Swiss German text as _xml_ files as well as a PoS-t
 
 NOAH's Corpus of Swiss German Dialects contains five _xml_ files. Each file contains Swiss German texts of a different genre:
 
-- _blick.xml_ newspaper articles from ["Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013](/docs/blick_am_abend_chde_2013.pdf)
-- _blogs.xml_ "BlogSpot" blogs, extracted 31.1.2014 [blog1](http://alessandrainitaly.blogspot.ch/), [blog2](http://alinesabroad.blogspot.ch/), [blog3](http://anitainmexico.blogspot.ch/) 
-- _swatch.xml_ [SWATCH annual report 2012](/docs/2012_annual_report_complete_ch.pdf)
-- _schobinger.xml_ extracts of criminal novels by [Viktor Schobinger](http://www.zuerituetsch.ch/) 
-- _wiki.xml_ articles from the [Alemannic Wikipedia](http://als.wikipedia.org), extracted 10.4.2012
+- **blick**: newspaper articles from ["Blick am Abig", Version Zurich, Nr. 97, 28. Mai 2013](/docs/blick_am_abend_chde_2013.pdf)
+- **blogs**: "BlogSpot" blogs, extracted 31.1.2014 [blog1](http://alessandrainitaly.blogspot.ch/), [blog2](http://alinesabroad.blogspot.ch/), [blog3](http://anitainmexico.blogspot.ch/) 
+- **swatch**: [SWATCH annual report 2012](/docs/2012_annual_report_complete_ch.pdf)
+- **schobinger**: extracts of criminal novels by [Viktor Schobinger](http://www.zuerituetsch.ch/) 
+- **wiki**: articles from the [Alemannic Wikipedia](http://als.wikipedia.org), extracted 10.4.2012
 
 
 
