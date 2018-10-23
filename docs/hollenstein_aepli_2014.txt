@@ -1,0 +1,7 @@
+@article{hollenstein_aepli_2014,
+  title={Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging},
+  author={Hollenstein, Nora and Aepli, No{\"e}mi},
+  journal={COLING 2014},
+  pages={85},
+  year={2014}
+}

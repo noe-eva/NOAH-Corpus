@@ -1,0 +1,6 @@
+@article{hollenstein_aepli_2015,
+  title={A Resource for Natural Language Processing of Swiss German Dialects},
+  author={Hollenstein, Nora and Aepli, No{\"e}mi},
+  journal={GSCL 2015},
+  year={2015}
+}

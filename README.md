@@ -10,14 +10,14 @@ We compiled NOAH's Corpus of Swiss German Dialects consisting of various text ge
 Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." _SwissText 2018_: 116.  ([PDF](http://ceur-ws.org/Vol-2226/abstract1.pdf)) ([poster](/docs/swisstext_2018_noah.pdf))
 
 Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing of Swiss German Dialects." _GSCL 2015_: 108.
-([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:7smPe1cwlN4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWZ8p7GOsYMjgHWskfSI0bIs7m03cHK7x&scisf=4&ct=citation&cd=-1&hl=en)) ([PDF](http://www.gscl.org/proceedings/2015/GSCL-201515.pdf)) ([poster](http://kitt.cl.uzh.ch/kitt/noah/gscl2015_poster.pdf))
+([BibTex](/docs/hollenstein_aepli_2015.txt)) ([PDF](https://pdfs.semanticscholar.org/e250/0609bd7dc44f43f22560c8af69fccc3b7afd.pdf)) ([poster](/docs/gscl2015_poster.pdf))
 
 Nora Hollenstein and Noëmi Aepli. "Compilation of a Swiss German Dialect Corpus and its Application to PoS Tagging." _COLING 2014_: 85.
-([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:bTM20JKWJOEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWZ8ppsY9pJoIzZ875diPbzupTKVU6fYN&scisf=4&ct=citation&cd=-1&hl=en)) ([PDF](https://www.aclweb.org/anthology/W/W14/W14-5310.pdf)) ([poster](http://kitt.cl.uzh.ch/kitt/noah/vardial2014_poster.pdf))
+([BibTex](/docs/hollenstein_aepli_2014.txt)) ([PDF](http://www.aclweb.org/anthology/W14-5310)) ([poster](/docs/vardial2015_poster.pdf))
 
 
 # Talks
 
-[IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides]())
+[IBM Developer UnConference Meetup Zürich](https://www.meetup.com/de-DE/Big-Data-Developers-Switzerland/events/242917086/?isFromReg=true&fromJoin=242917086), 18.1.2018 ([slides](/docs/IBM_UnConference_2018_gsw.pdf))
 
 [NLP Meetup Zürich #3](https://www.meetup.com/NLP-Zurich/events/243080359/), 28.9.2017 ([slides](/docs/NLP_Meetup_2017_gsw.pdf)))
