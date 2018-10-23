@@ -9,7 +9,7 @@
                     <textarea name="t" style="width:100%" rows="12" cols="120">Das
 isch
 es
-Bispiil
+Bispiili
 mitem
 Wort
 Chuchichäschtli
