@@ -7,7 +7,7 @@ We compiled NOAH's Corpus of Swiss German Dialects consisting of various text ge
 
 # Publications
 
-Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." _SwissText 2018_: 116.  ([PDF](http://ceur-ws.org/Vol-2226/abstract1.pdf)) ([poster](./docs/swisstext_2018_noah.pdf))
+Noëmi Aepli, Nora Hollenstein, Simon Clematide. "NOAH 3.0:  Recent Improvements in a Part-of-Speech Tagged Corpus for Swiss German Dialects." _SwissText 2018_: 116.  ([PDF](http://ceur-ws.org/Vol-2226/abstract1.pdf)) ([poster](/docs/swisstext_2018_noah.pdf))
 
 Nora Hollenstein and Noëmi Aepli. "A Resource for Natural Language Processing of Swiss German Dialects." _GSCL 2015_: 108.
 ([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:7smPe1cwlN4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWZ8p7GOsYMjgHWskfSI0bIs7m03cHK7x&scisf=4&ct=citation&cd=-1&hl=en)) ([PDF](http://www.gscl.org/proceedings/2015/GSCL-201515.pdf)) ([poster](http://kitt.cl.uzh.ch/kitt/noah/gscl2015_poster.pdf))
