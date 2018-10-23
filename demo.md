@@ -4,7 +4,7 @@
  
 
                 <fieldset>
-                    <input style="font:#606c71; border-color:#c0c0c0" class="btn" type="submit" value="Analyze" name="submitButtonName">
+                    <input style="color:#606c71; border-color:#c0c0c0" class="btn" type="submit" value="Analyze" name="submitButtonName">
                     <legend>Input </legend>
                     <textarea name="t" style="width:100%" rows="5" cols="180">Das isch es Bispiili mitem Wort Chuchichäschtli drin .</textarea>
                     Format: words separated by white-space
