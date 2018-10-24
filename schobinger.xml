@@ -1504,9 +1504,9 @@
       <w n="2-20-3" pos="APPR" verified="no">um</w>
       <w n="2-20-4" pos="NN" verified="no">Hilff</w>
       <w n="2-20-5" pos="$." verified="no">.</w>
+      <w n="2-20-6" pos="$(" verified="no">»</w>
     </s>
     <s n="2-21">
-      <w n="2-21-0" pos="$(" verified="no">»</w>
       <w n="2-21-1" pos="$(" verified="no">«</w>
       <w n="2-21-2" pos="PPER" verified="no">Si</w>
       <w n="2-21-3" pos="VAFIN" verified="no">sind</w>
@@ -2310,12 +2310,12 @@
       <w n="3-14-2" pos="PPER" verified="no">er</w>
       <w n="3-14-3" pos="VMFIN" verified="no">töörff</w>
       <w n="3-14-4" pos="PTKNEG" verified="no">nöd</w>
-      <w n="3-14-5" pos="VMFIN" verified="no">schnäler</w>
+      <w n="3-14-5" pos="ADJD" verified="yes">schnäler</w>
       <w n="3-14-6" pos="VVINF" verified="no">faare</w>
       <w n="3-14-7" pos="$(" verified="no">»</w>
       <w n="3-14-8" pos="$," verified="no">,</w>
       <w n="3-14-9" pos="VVFIN" verified="no">widerschpricht</w>
-      <w n="3-14-10" pos="ART" verified="no">em</w>
+      <w n="3-14-10" pos="PPER" verified="yes">em</w>
       <w n="3-14-11" pos="ART" verified="no">d</w>
       <w n="3-14-12" pos="NN" verified="no">Assischtäntin</w>
       <w n="3-14-13" pos="$." verified="no">.</w>
@@ -2328,7 +2328,7 @@
       <w n="3-15-4" pos="NN" verified="no">Schiibewüscher</w>
       <w n="3-15-5" pos="VVFIN" verified="no">schaffed</w>
       <w n="3-15-6" pos="KOKOM" verified="no">wie</w>
-      <w n="3-15-7" pos="ADJA" verified="no">verruckt</w>
+      <w n="3-15-7" pos="ADJD" verified="yes">verruckt</w>
       <w n="3-15-8" pos="KON" verified="no">und</w>
       <w n="3-15-9" pos="VVFIN" verified="no">möged</w>
       <w n="3-15-10" pos="ART" verified="no">em</w>
@@ -2365,7 +2365,7 @@
       <w n="3-18-7" pos="$," verified="no">,</w>
       <w n="3-18-8" pos="ADV" verified="no">hööchschtens</w>
       <w n="3-18-9" pos="ART+" verified="no">epaar</w>
-      <w n="3-18-10" pos="VVPP" verified="no">schpuure</w>
+      <w n="3-18-10" pos="NN" verified="yes">schpuure</w>
       <w n="3-18-11" pos="$." verified="no">.</w>
     </s>
     <s n="3-19">
@@ -2407,13 +2407,13 @@
       <w n="3-22-2" pos="ART" verified="no">de</w>
       <w n="3-22-3" pos="NN" verified="no">Blinker</w>
       <w n="3-22-4" pos="KON" verified="no">und</w>
-      <w n="3-22-5" pos="ADV" verified="no">hinder</w>
-      <w n="3-22-6" pos="ADV" verified="no">ine</w>
+      <w n="3-22-5" pos="APPR" verified="yes">hinder</w>
+      <w n="3-22-6" pos="PPER" verified="yes">ine</w>
       <w n="3-22-7" pos="VVFIN" verified="no">macht</w>
       <w n="3-22-8" pos="ART" verified="no">de</w>
       <w n="3-22-9" pos="NE" verified="no">Füessli</w>
-      <w n="3-22-10" pos="PPER" verified="no">s</w>
-      <w n="3-22-11" pos="ADV" verified="no">gliich</w>
+      <w n="3-22-10" pos="ART" verified="yes">s</w>
+      <w n="3-22-11" pos="NN" verified="yes">gliich</w>
       <w n="3-22-12" pos="$." verified="no">.</w>
     </s>
     <s n="3-23">
@@ -2446,30 +2446,26 @@
     <s n="3-24">
       <w n="3-24-0" pos="APPRART" verified="no">Im</w>
       <w n="3-24-1" pos="$." verified="no">‹</w>
-    </s>
-    <s n="3-25">
-      <w n="3-25-0" pos="NE" verified="no">Tanegghölzli</w>
-      <w n="3-25-1" pos="$." verified="no">›</w>
-    </s>
-    <s n="3-26">
-      <w n="3-26-0" pos="VAFIN" verified="no">seg</w>
-      <w n="3-26-1" pos="ART" verified="no">de</w>
-      <w n="3-26-2" pos="NN" verified="no">Toot</w>
-      <w n="3-26-3" pos="$," verified="no">,</w>
-      <w n="3-26-4" pos="VAFIN" verified="no">häd</w>
-      <w n="3-26-5" pos="PPER" verified="no">em</w>
-      <w n="3-26-6" pos="ART" verified="no">de</w>
-      <w n="3-26-7" pos="NE" verified="no">Ludi</w>
-      <w n="3-26-8" pos="NE" verified="no">Zolinger</w>
-      <w n="3-26-9" pos="APPRART" verified="no">am</w>
-      <w n="3-26-10" pos="NN" verified="no">Telifoon</w>
-      <w n="3-26-11" pos="VVPP" verified="no">gsäit</w>
-      <w n="3-26-12" pos="$," verified="no">,</w>
-      <w n="3-26-13" pos="APPR" verified="no">vor</w>
-      <w n="3-26-14" pos="ART" verified="no">ere</w>
-      <w n="3-26-15" pos="ADJA" verified="no">halb</w>
-      <w n="3-26-16" pos="NN" verified="no">Schtund</w>
-      <w n="3-26-17" pos="$." verified="no">.</w>
+      <w n="3-24-2" pos="NE" verified="no">Tanegghölzli</w>
+      <w n="3-24-3" pos="$." verified="no">›</w>
+      <w n="3-24-4" pos="VAFIN" verified="no">seg</w>
+      <w n="3-24-5" pos="ART" verified="no">de</w>
+      <w n="3-24-6" pos="NN" verified="no">Toot</w>
+      <w n="3-24-7" pos="$," verified="no">,</w>
+      <w n="3-24-8" pos="VAFIN" verified="no">häd</w>
+      <w n="3-24-9" pos="PPER" verified="no">em</w>
+      <w n="3-24-10" pos="ART" verified="no">de</w>
+      <w n="3-24-11" pos="NE" verified="no">Ludi</w>
+      <w n="3-24-12" pos="NE" verified="no">Zolinger</w>
+      <w n="3-24-13" pos="APPRART" verified="no">am</w>
+      <w n="3-24-14" pos="NN" verified="no">Telifoon</w>
+      <w n="3-24-15" pos="VVPP" verified="no">gsäit</w>
+      <w n="3-24-16" pos="$," verified="no">,</w>
+      <w n="3-24-17" pos="APPR" verified="no">vor</w>
+      <w n="3-24-18" pos="ART" verified="no">ere</w>
+      <w n="3-24-19" pos="ADJA" verified="no">halb</w>
+      <w n="3-24-20" pos="NN" verified="no">Schtund</w>
+      <w n="3-24-21" pos="$." verified="no">.</w>
     </s>
     <s n="3-27">
       <w n="3-27-0" pos="ADV" verified="no">Mee</w>
@@ -2477,7 +2473,7 @@
       <w n="3-27-2" pos="ART" verified="no">der</w>
       <w n="3-27-3" pos="NE" verified="no">Ääschme</w>
       <w n="3-27-4" pos="PTKNEG" verified="no">nöd</w>
-      <w n="3-27-5" pos="VMPP" verified="no">müese</w>
+      <w n="3-27-5" pos="VMPP" verified="yes">müese</w>
       <w n="3-27-6" pos="VVINF" verified="no">wüsse</w>
       <w n="3-27-7" pos="$." verified="no">:</w>
     </s>
@@ -2513,14 +2509,14 @@
       <w n="3-30-12" pos="APPR" verified="no">an</w>
       <w n="3-30-13" pos="ART" verified="no">es</w>
       <w n="3-30-14" pos="NN" verified="no">Wäldli</w>
-      <w n="3-30-15" pos="APPRART" verified="no">ane</w>
+      <w n="3-30-15" pos="PTKVZ" verified="yes">ane</w>
       <w n="3-30-16" pos="$," verified="no">,</w>
       <w n="3-30-17" pos="PRELS" verified="no">wo</w>
       <w n="3-30-18" pos="PRF" verified="no">sich</w>
       <w n="3-30-19" pos="APPRART" verified="no">amen</w>
       <w n="3-30-20" pos="NN" verified="no">Acherwääg</w>
-      <w n="3-30-21" pos="APPO" verified="no">naa</w>
-      <w n="3-30-22" pos="VVPP" verified="no">ziet</w>
+      <w n="3-30-21" pos="ADV" verified="yes">naa</w>
+      <w n="3-30-22" pos="VVFIN" verified="yes">ziet</w>
       <w n="3-30-23" pos="$." verified="no">.</w>
     </s>
     <s n="3-31">
@@ -2665,7 +2661,7 @@
       <w n="3-41-1" pos="ADJA" verified="no">rootwiisses</w>
       <w n="3-41-2" pos="NN" verified="no">Band</w>
       <w n="3-41-3" pos="VVFIN" verified="no">hanget</w>
-      <w n="3-41-4" pos="ADJA" verified="no">oben</w>
+      <w n="3-41-4" pos="ADV" verified="yes">oben</w>
       <w n="3-41-5" pos="APPRART" verified="no">am</w>
       <w n="3-41-6" pos="NN" verified="no">Poort</w>
       <w n="3-41-7" pos="$," verified="no">,</w>
@@ -2751,7 +2747,7 @@
       <w n="3-47-5" pos="PPER" verified="no">en</w>
       <w n="3-47-6" pos="VVPP" verified="no">mitgschläikt</w>
       <w n="3-47-7" pos="KOKOM" verified="no">wie</w>
-      <w n="3-47-8" pos="ADJA" verified="no">ander</w>
+      <w n="3-47-8" pos="PIS" verified="yes">ander</w>
       <w n="3-47-9" pos="ADV" verified="no">au</w>
       <w n="3-47-10" pos="$." verified="no">.</w>
     </s>
@@ -2763,7 +2759,7 @@
       <w n="3-48-4" pos="PPOSAT" verified="no">sini</w>
       <w n="3-48-5" pos="NN" verified="no">Inteligänz</w>
       <w n="3-48-6" pos="ADV" verified="no">voorig</w>
-      <w n="3-48-7" pos="PTKVZ" verified="no">ggnueg</w>
+      <w n="3-48-7" pos="ADV" verified="yes">ggnueg</w>
       <w n="3-48-8" pos="$." verified="no">.</w>
     </s>
     <s n="3-49">
@@ -2777,7 +2773,7 @@
       <w n="3-49-7" pos="VAPP" verified="no">ghaa</w>
       <w n="3-49-8" pos="$," verified="no">,</w>
       <w n="3-49-9" pos="VAFIN" verified="no">isch</w>
-      <w n="3-49-10" pos="VVPP" verified="no">froo</w>
+      <w n="3-49-10" pos="ADJD" verified="yes">froo</w>
       <w n="3-49-11" pos="VAPP" verified="no">gsii</w>
       <w n="3-49-12" pos="$," verified="no">,</w>
       <w n="3-49-13" pos="KOUS" verified="no">das</w>
@@ -2786,7 +2782,7 @@
       <w n="3-49-16" pos="APPRART" verified="no">am</w>
       <w n="3-49-17" pos="NN" verified="no">Morge</w>
       <w n="3-49-18" pos="VAFIN" verified="no">hät</w>
-      <w n="3-49-19" pos="VMINF" verified="todo">chönen</w>
+      <w n="3-49-19" pos="VMPP" verified="yes">chönen</w>
       <w n="3-49-20" pos="PPOSAT" verified="no">siim</w>
       <w n="3-49-21" pos="NN" verified="no">Schuelkoleeg</w>
       <w n="3-49-22" pos="NE" verified="no">Ääschmen</w>
@@ -2830,21 +2826,21 @@
       <w n="3-53-0" pos="KON" verified="no">Und</w>
       <w n="3-53-1" pos="KOUS" verified="no">das</w>
       <w n="3-53-2" pos="PPER" verified="no">mer</w>
-      <w n="3-53-3" pos="PTKVZ" verified="no">käine</w>
+      <w n="3-53-3" pos="PIS" verified="yes">käine</w>
       <w n="3-53-4" pos="APPR" verified="no">mit</w>
       <w n="3-53-5" pos="ART" verified="no">de</w>
       <w n="3-53-6" pos="NN" verified="no">Finger</w>
-      <w n="3-53-7" pos="VVPP" verified="no">lueget</w>
+      <w n="3-53-7" pos="VVFIN" verified="yes">lueget</w>
       <w n="3-53-8" pos="$." verified="no">!</w>
     </s>
     <s n="3-54">
       <w n="3-54-0" pos="VVIMP" verified="no">Schpeer</w>
-      <w n="3-54-1" pos="PIAT" verified="no">ales</w>
+      <w n="3-54-1" pos="PIS" verified="yes">ales</w>
       <w n="3-54-2" pos="PTKVZ" verified="no">ab</w>
       <w n="3-54-3" pos="$." verified="no">!</w>
+      <w n="3-54-4" pos="$(" verified="no">»</w>
     </s>
     <s n="3-55">
-      <w n="3-55-0" pos="$(" verified="no">»</w>
       <w n="3-55-1" pos="ART" verified="no">De</w>
       <w n="3-55-2" pos="NE" verified="no">Ludi</w>
       <w n="3-55-3" pos="VAFIN" verified="no">hät</w>
@@ -2865,13 +2861,13 @@
       <w n="3-56-10" pos="PPER" verified="no">er</w>
       <w n="3-56-11" pos="ART" verified="no">der</w>
       <w n="3-56-12" pos="NE" verified="no">Ääschme</w>
-      <w n="3-56-13" pos="VVPP" verified="no">gseet</w>
+      <w n="3-56-13" pos="VVFIN" verified="yes">gseet</w>
       <w n="3-56-14" pos="$." verified="no">:</w>
     </s>
     <s n="3-57">
       <w n="3-57-0" pos="$(" verified="no">«</w>
       <w n="3-57-1" pos="ADV" verified="no">Äntli</w>
-      <w n="3-57-2" pos="VVFIN" verified="no">bisch</w>
+      <w n="3-57-2" pos="VAFIN" verified="no">bisch</w>
       <w n="3-57-3" pos="ADV" verified="no">daa</w>
       <w n="3-57-4" pos="$." verified="no">!</w>
     </s>
@@ -2886,7 +2882,7 @@
       <w n="3-58-7" pos="$(" verified="no">»</w>
     </s>
     <s n="3-59">
-      <w n="3-59-0" pos="NN" verified="no">Uufggregt</w>
+      <w n="3-59-0" pos="ADJD" verified="yes">Uufggregt</w>
       <w n="3-59-1" pos="VVFIN" verified="no">schtelt</w>
       <w n="3-59-2" pos="PPER" verified="no">er</w>
       <w n="3-59-3" pos="PPER" verified="yes">em</w>
@@ -2918,7 +2914,7 @@
       <w n="3-60-10" pos="NN" verified="no">Maa</w>
       <w n="3-60-11" pos="APPR" verified="no">mit</w>
       <w n="3-60-12" pos="NN" verified="no">Name</w>
-      <w n="3-60-13" pos="NN" verified="no">Höön</w>
+      <w n="3-60-13" pos="NE" verified="yes">Höön</w>
       <w n="3-60-14" pos="APPRART" verified="no">imene</w>
       <w n="3-60-15" pos="NN" verified="no">Trèningsaazùùg</w>
       <w n="3-60-16" pos="$." verified="no">.</w>
@@ -2933,7 +2929,7 @@
       <w n="3-61-6" pos="ART" verified="no">de</w>
       <w n="3-61-7" pos="NN" verified="no">Toot</w>
       <w n="3-61-8" pos="VVPP" verified="no">gfunde</w>
-      <w n="3-61-9" pos="VVFIN" verified="no">heb</w>
+      <w n="3-61-9" pos="VAFIN" verified="yes">heb</w>
       <w n="3-61-10" pos="$." verified="no">.</w>
     </s>
     <s n="3-62">
@@ -3004,7 +3000,7 @@
       <w n="3-67-8" pos="KOUI+" verified="no">zum</w>
       <w n="3-67-9" pos="PRF" verified="no">sich</w>
       <w n="3-67-10" pos="ADJD" verified="no">waarm</w>
-      <w n="3-67-11" pos="VVPP" verified="no">phalte</w>
+      <w n="3-67-11" pos="VVINF" verified="yes">phalte</w>
       <w n="3-67-12" pos="$." verified="no">.</w>
     </s>
     <s n="3-68">
@@ -3028,7 +3024,7 @@
       <w n="3-70-3" pos="KOUS" verified="no">wänn</w>
       <w n="3-70-4" pos="ART" verified="no">de</w>
       <w n="3-70-5" pos="NN" verified="no">Bezirksaawalt</w>
-      <w n="3-70-6" pos="ADJD" verified="no">nanig</w>
+      <w n="3-70-6" pos="ADV+" verified="yes">nanig</w>
       <w n="3-70-7" pos="ADV" verified="no">daa</w>
       <w n="3-70-8" pos="VAFIN" verified="no">isch</w>
       <w n="3-70-9" pos="$." verified="no">.</w>
@@ -3043,7 +3039,7 @@
       <w n="3-71-6" pos="VAFIN" verified="no">hät</w>
       <w n="3-71-7" pos="PRF" verified="no">sich</w>
       <w n="3-71-8" pos="ADV" verified="no">alemaa</w>
-      <w n="3-71-9" pos="VVINF" verified="no">verfaare</w>
+      <w n="3-71-9" pos="VVPP" verified="yes">verfaare</w>
       <w n="3-71-10" pos="$." verified="no">.</w>
     </s>
     <s n="3-72">
@@ -3056,8 +3052,8 @@
       <w n="3-73-0" pos="ART" verified="no">S</w>
       <w n="3-73-1" pos="NN" verified="no">Wäldli</w>
       <w n="3-73-2" pos="VAFIN" verified="no">isch</w>
-      <w n="3-73-3" pos="ADJD" verified="no">relatiiv</w>
-      <w n="3-73-4" pos="VVPP" verified="no">ebe</w>
+      <w n="3-73-3" pos="ADV" verified="yes">relatiiv</w>
+      <w n="3-73-4" pos="ADJD" verified="yes">ebe</w>
       <w n="3-73-5" pos="$," verified="no">,</w>
       <w n="3-73-6" pos="KON" verified="no">aber</w>
       <w n="3-73-7" pos="KOUI+" verified="no">zum</w>
@@ -3067,9 +3063,9 @@
       <w n="3-73-11" pos="$," verified="no">,</w>
       <w n="3-73-12" pos="VMFIN" verified="no">mues</w>
       <w n="3-73-13" pos="PIS" verified="no">mer</w>
-      <w n="3-73-14" pos="PPER" verified="no">es</w>
+      <w n="3-73-14" pos="ART" verified="yes">es</w>
       <w n="3-73-15" pos="NN" verified="no">Poort</w>
-      <w n="3-73-16" pos="PTKVZ" verified="no">duruuf</w>
+      <w n="3-73-16" pos="PAV" verified="yes">duruuf</w>
       <w n="3-73-17" pos="$," verified="no">,</w>
       <w n="3-73-18" pos="KON" verified="no">und</w>
       <w n="3-73-19" pos="NN" verified="no">Pöörter</w>
@@ -3084,7 +3080,7 @@
       <w n="3-74-1" pos="ADJA" verified="no">nassem</w>
       <w n="3-74-2" pos="NN" verified="no">Graas</w>
       <w n="3-74-3" pos="$," verified="no">,</w>
-      <w n="3-74-4" pos="ADV" verified="no">wèr</w>
+      <w n="3-74-4" pos="PWS" verified="yes">wèr</w>
       <w n="3-74-5" pos="VVFIN" verified="no">wüsst</w>
       <w n="3-74-6" pos="PDS" verified="no">das</w>
       <w n="3-74-7" pos="PTKNEG" verified="no">nööd</w>
@@ -3654,21 +3650,21 @@
       <w n="3-112-20" pos="ADV" verified="no">aber</w>
       <w n="3-112-21" pos="ADJA" verified="no">schtockschtiiff</w>
       <w n="3-112-22" pos="$." verified="no">.</w>
+      <w n="3-112-23" pos="$(" verified="no">»</w>
     </s>
     <s n="3-113">
-      <w n="3-113-0" pos="$(" verified="no">»</w>
       <w n="3-113-1" pos="PPER" verified="no">S</w>
       <w n="3-113-2" pos="VVFIN" verified="no">lachet</w>
-      <w n="3-113-3" pos="VVPP" verified="no">niemert</w>
+      <w n="3-113-3" pos="PIS" verified="yes">niemert</w>
       <w n="3-113-4" pos="$." verified="no">.</w>
     </s>
     <s n="3-114">
       <w n="3-114-0" pos="$(" verified="no">«</w>
       <w n="3-114-1" pos="NE" verified="no">Leeo</w>
       <w n="3-114-2" pos="$," verified="no">,</w>
-      <w n="3-114-3" pos="ADV" verified="no">duu</w>
-      <w n="3-114-4" pos="VVFIN" verified="no">bisch</w>
-      <w n="3-114-5" pos="ADV" verified="no">draa</w>
+      <w n="3-114-3" pos="PPER" verified="yes">duu</w>
+      <w n="3-114-4" pos="VAFIN" verified="yes">bisch</w>
+      <w n="3-114-5" pos="PAV" verified="yes">draa</w>
       <w n="3-114-6" pos="$." verified="no">!</w>
       <w n="3-114-7" pos="$(" verified="no">»</w>
     </s>
@@ -3743,9 +3739,10 @@
       <w n="3-120-1" pos="ADJA" verified="no">Psunderi</w>
       <w n="3-120-2" pos="NN" verified="no">Wüntsch</w>
       <w n="3-120-3" pos="$." verified="no">?</w>
+      <w n="3-120-4" pos="$(" verified="no">»</w>
     </s>
     <s n="3-121">
-      <w n="3-121-0" pos="$(" verified="no">»</w>
+
       <w n="3-121-1" pos="$(" verified="no">«</w>
       <w n="3-121-2" pos="NN" verified="no">Fuessabtrück</w>
       <w n="3-121-3" pos="KON" verified="no">und</w>
@@ -3818,7 +3815,7 @@
       <w n="3-127-7" pos="APPR" verified="no">mit</w>
       <w n="3-127-8" pos="ART" verified="no">eme</w>
       <w n="3-127-9" pos="NN" verified="no">Höörli</w>
-      <w n="3-127-10" pos="VVPP" verified="no">zfride</w>
+      <w n="3-127-10" pos="ADJD" verified="yes">zfride</w>
       <w n="3-127-11" pos="$," verified="no">,</w>
       <w n="3-127-12" pos="KON" verified="no">oder</w>
       <w n="3-127-13" pos="APPRART" verified="no">amene</w>
@@ -3994,8 +3991,8 @@
       <w n="4-10-0" pos="$(" verified="no">«</w>
       <w n="4-10-1" pos="PWS" verified="no">Wie</w>
       <w n="4-10-2" pos="VVFIN" verified="no">schteled</w>
-      <w n="4-10-3" pos="NN" verified="no">ììr</w>
-      <w n="4-10-4" pos="PPER" verified="no">öi</w>
+      <w n="4-10-3" pos="PPER" verified="yes">ììr</w>
+      <w n="4-10-4" pos="PRF" verified="yes">öi</w>
       <w n="4-10-5" pos="PDS" verified="no">das</w>
       <w n="4-10-6" pos="PTKVZ" verified="no">voor</w>
       <w n="4-10-7" pos="$." verified="no">?</w>
@@ -4045,13 +4042,13 @@
       <w n="4-12-9" pos="NE" verified="no">Gessner</w>
       <w n="4-12-10" pos="VAFIN" verified="no">isch</w>
       <w n="4-12-11" pos="PTKA" verified="no">z</w>
-      <w n="4-12-12" pos="ADJA" verified="no">häikel</w>
+      <w n="4-12-12" pos="ADJD" verified="yes">häikel</w>
       <w n="4-12-13" pos="$," verified="no">,</w>
-      <w n="4-12-14" pos="APPR" verified="no">als</w>
-      <w n="4-12-15" pos="PDS" verified="no">das</w>
-      <w n="4-12-16" pos="PPER" verified="no">mer</w>
-      <w n="4-12-17" pos="PIS" verified="no">en</w>
-      <w n="4-12-18" pos="VVFIN" verified="no">töörfft</w>
+      <w n="4-12-14" pos="APPR" verified="todo">als</w>
+      <w n="4-12-15" pos="KOUS" verified="yes">das</w>
+      <w n="4-12-16" pos="PIS" verified="yes">mer</w>
+      <w n="4-12-17" pos="PPER" verified="yes">en</w>
+      <w n="4-12-18" pos="VMFIN" verified="yes">töörfft</w>
       <w n="4-12-19" pos="ADV" verified="no">na</w>
       <w n="4-12-20" pos="ADJD" verified="no">lenger</w>
       <w n="4-12-21" pos="VVFIN" verified="no">la</w>
@@ -4082,7 +4079,7 @@
       <w n="4-14-3" pos="VVFIN" verified="no">chömed</w>
       <w n="4-14-4" pos="PPER" verified="no">mer</w>
       <w n="4-14-5" pos="PTKNEG" verified="no">nöd</w>
-      <w n="4-14-6" pos="ADJD" verified="no">wiiter</w>
+      <w n="4-14-6" pos="PTKVZ" verified="yes">wiiter</w>
       <w n="4-14-7" pos="$." verified="no">.</w>
       <w n="4-14-8" pos="$(" verified="no">»</w>
     </s>
@@ -4103,7 +4100,7 @@
       <w n="4-16-3" pos="ADV" verified="no">gliich</w>
       <w n="4-16-4" pos="$," verified="no">,</w>
       <w n="4-16-5" pos="APPR" verified="no">mit</w>
-      <w n="4-16-6" pos="PRELS" verified="no">welne</w>
+      <w n="4-16-6" pos="PIAT" verified="yes">welne</w>
       <w n="4-16-7" pos="NN" verified="no">Metoode</w>
       <w n="4-16-8" pos="PPER" verified="no">Si</w>
       <w n="4-16-9" pos="VVFIN" verified="no">schaffed</w>
@@ -4129,9 +4126,9 @@
       <w n="4-18-7" pos="PDS" verified="no">daas</w>
       <w n="4-18-8" pos="VVFIN" verified="yes">zuetrou</w>
       <w n="4-18-9" pos="$." verified="no">.</w>
+      <w n="4-18-10" pos="$(" verified="no">»</w>
     </s>
     <s n="4-19">
-      <w n="4-19-0" pos="$(" verified="no">»</w>
       <w n="4-19-1" pos="PDS" verified="no">Die</w>
       <w n="4-19-2" pos="NN" verified="no">Reakzioon</w>
       <w n="4-19-3" pos="APPR" verified="no">uf</w>
@@ -4142,7 +4139,7 @@
       <w n="4-19-8" pos="VAFIN" verified="no">hät</w>
       <w n="4-19-9" pos="ART" verified="no">der</w>
       <w n="4-19-10" pos="NE" verified="no">Ääschme</w>
-      <w n="4-19-11" pos="VMFIN" verified="no">chönen</w>
+      <w n="4-19-11" pos="VMPP" verified="yes">chönen</w>
       <w n="4-19-12" pos="VVINF" verified="no">erwaarte</w>
       <w n="4-19-13" pos="$." verified="no">.</w>
     </s>
@@ -4162,12 +4159,12 @@
     </s>
     <s n="4-21">
       <w n="4-21-0" pos="APPR" verified="no">Sid</w>
-      <w n="4-21-1" pos="PPER" verified="no">em</w>
-      <w n="4-21-2" pos="ADJA" verified="no">zwäi</w>
+      <w n="4-21-1" pos="ART" verified="yes">em</w>
+      <w n="4-21-2" pos="CARD" verified="yes">zwäi</w>
       <w n="4-21-3" pos="VVFIN" verified="no">sitzed</w>
       <w n="4-21-4" pos="PPER" verified="no">s</w>
       <w n="4-21-5" pos="APPR" verified="no">a</w>
-      <w n="4-21-6" pos="PIS" verified="no">dèm</w>
+      <w n="4-21-6" pos="PDAT" verified="yes">dèm</w>
       <w n="4-21-7" pos="NN" verified="no">Mèèndignamittaag</w>
       <w n="4-21-8" pos="ADV" verified="no">mitenand</w>
       <w n="4-21-9" pos="APPRART" verified="no">am</w>
@@ -4186,7 +4183,7 @@
       <w n="4-23-1" pos="NE" verified="no">Feisler</w>
       <w n="4-23-2" pos="VAFIN" verified="no">hät</w>
       <w n="4-23-3" pos="ADV" verified="no">scho</w>
-      <w n="4-23-4" pos="ADJD" verified="no">zwäimaal</w>
+      <w n="4-23-4" pos="ADV" verified="yes">zwäimaal</w>
       <w n="4-23-5" pos="ADJD" verified="yes">verschtolen</w>
       <w n="4-23-6" pos="APPR" verified="no">uf</w>
       <w n="4-23-7" pos="ART" verified="no">d</w>
@@ -4212,9 +4209,9 @@
       <w n="4-25-4" pos="ART" verified="no">d</w>
       <w n="4-25-5" pos="NN" verified="no">Voorgschicht</w>
       <w n="4-25-6" pos="$." verified="no">.</w>
+      <w n="4-25-7" pos="$(" verified="no">»</w>
     </s>
     <s n="4-26">
-      <w n="4-26-0" pos="$(" verified="no">»</w>
       <w n="4-26-1" pos="ART" verified="no">De</w>
       <w n="4-26-2" pos="NN" verified="no">Grã-scheff</w>
       <w n="4-26-3" pos="VAFIN" verified="no">hät</w>
@@ -4237,12 +4234,12 @@
       <w n="4-27-11" pos="VMFIN" verified="no">töörff</w>
       <w n="4-27-12" pos="VVINF" verified="no">verschtecke</w>
       <w n="4-27-13" pos="$," verified="no">,</w>
-      <w n="4-27-14" pos="KOKOM" verified="no">wä</w>
+      <w n="4-27-14" pos="KOKOM" verified="todo">wä</w>
       <w n="4-27-15" pos="PIS" verified="no">men</w>
-      <w n="4-27-16" pos="PPER" verified="no">es</w>
-      <w n="4-27-17" pos="ADJD" verified="no">ergäbnis</w>
+      <w n="4-27-16" pos="ART" verified="yes">es</w>
+      <w n="4-27-17" pos="NN" verified="yes">ergäbnis</w>
       <w n="4-27-18" pos="VMFIN" verified="no">wott</w>
-      <w n="4-27-19" pos="VVINF" verified="no">haa</w>
+      <w n="4-27-19" pos="VAINF" verified="yes">haa</w>
       <w n="4-27-20" pos="$." verified="no">.</w>
     </s>
     <s n="4-28">
@@ -4266,7 +4263,7 @@
       <w n="4-29-3" pos="VAFIN" verified="no">isch</w>
       <w n="4-29-4" pos="ADV" verified="no">na</w>
       <w n="4-29-5" pos="PIS" verified="no">nüüt</w>
-      <w n="4-29-6" pos="VAINF" verified="no">daagsii</w>
+      <w n="4-29-6" pos="VAPP" verified="yes">daagsii</w>
       <w n="4-29-7" pos="$." verified="no">.</w>
     </s>
     <s n="4-30">
@@ -4280,35 +4277,35 @@
       <w n="4-30-7" pos="KON" verified="no">und</w>
       <w n="4-30-8" pos="ADV" verified="no">zimli</w>
       <w n="4-30-9" pos="ADJD" verified="no">harsch</w>
-      <w n="4-30-10" pos="VVFIN" verified="no">verlangt</w>
+      <w n="4-30-10" pos="VVPP" verified="yes">verlangt</w>
       <w n="4-30-11" pos="$," verified="no">,</w>
       <w n="4-30-12" pos="PPER" verified="no">er</w>
       <w n="4-30-13" pos="VMFIN" verified="no">well</w>
       <w n="4-30-14" pos="ART" verified="no">de</w>
       <w n="4-30-15" pos="NN" verified="no">Fall</w>
-      <w n="4-30-16" pos="VVFIN" verified="no">gglööst</w>
-      <w n="4-30-17" pos="VVINF" verified="no">haa</w>
+      <w n="4-30-16" pos="VVPP" verified="yes">gglööst</w>
+      <w n="4-30-17" pos="VAINF" verified="yes">haa</w>
       <w n="4-30-18" pos="$." verified="no">.</w>
     </s>
     <s n="4-31">
       <w n="4-31-0" pos="PPOSAT" verified="no">Sini</w>
       <w n="4-31-1" pos="NN" verified="no">Koleege</w>
-      <w n="4-31-2" pos="VVFIN" verified="no">seged</w>
-      <w n="4-31-3" pos="VVPP" verified="no">iritiert</w>
+      <w n="4-31-2" pos="VAFIN" verified="yes">seged</w>
+      <w n="4-31-3" pos="ADJD" verified="yes">iritiert</w>
       <w n="4-31-4" pos="$," verified="no">,</w>
       <w n="4-31-5" pos="KOUS" verified="no">das</w>
       <w n="4-31-6" pos="PDS" verified="no">das</w>
-      <w n="4-31-7" pos="ADJD" verified="no">solang</w>
-      <w n="4-31-8" pos="ADJD" verified="no">göng</w>
+      <w n="4-31-7" pos="ADV+" verified="yes">solang</w>
+      <w n="4-31-8" pos="VVFIN" verified="yes">göng</w>
       <w n="4-31-9" pos="$," verified="no">,</w>
       <w n="4-31-10" pos="KON" verified="no">und</w>
       <w n="4-31-11" pos="ADV" verified="no">so</w>
-      <w n="4-31-12" pos="ADJD" verified="no">wiiter</w>
+      <w n="4-31-12" pos="ADV" verified="yes">wiiter</w>
       <w n="4-31-13" pos="$." verified="no">.</w>
     </s>
     <s n="4-32">
       <w n="4-32-0" pos="PPER" verified="no">Er</w>
-      <w n="4-32-1" pos="PIAT" verified="no">insischtieri</w>
+      <w n="4-32-1" pos="VVFIN" verified="yes">insischtieri</w>
       <w n="4-32-2" pos="APPR" verified="no">uf</w>
       <w n="4-32-3" pos="NN" verified="no">Zwüschepricht</w>
       <w n="4-32-4" pos="$," verified="no">,</w>
@@ -4317,7 +4314,7 @@
       <w n="4-32-7" pos="NN" verified="no">Pricht</w>
       <w n="4-32-8" pos="APPR" verified="no">mit</w>
       <w n="4-32-9" pos="NN" verified="no">Subschtanz</w>
-      <w n="4-32-10" pos="APPR" verified="no">dine</w>
+      <w n="4-32-10" pos="PAV" verified="yes">dine</w>
       <w n="4-32-11" pos="$," verified="no">,</w>
       <w n="4-32-12" pos="KON" verified="no">und</w>
       <w n="4-32-13" pos="ADV" verified="no">möglichscht</w>
@@ -4356,9 +4353,9 @@
       <w n="4-34-15" pos="NN" verified="no">Ziitige</w>
       <w n="4-34-16" pos="VAFIN" verified="no">sind</w>
       <w n="4-34-17" pos="$." verified="no">.</w>
+      <w n="4-34-18" pos="$(" verified="no">»</w>
     </s>
     <s n="4-35">
-      <w n="4-35-0" pos="$(" verified="no">»</w>
       <w n="4-35-1" pos="ART" verified="no">D</w>
       <w n="4-35-2" pos="NN" verified="no">Ziitigen</w>
       <w n="4-35-3" pos="APPRART" verified="no">im</w>
@@ -4371,7 +4368,7 @@
       <w n="4-36-2" pos="VAFIN" verified="no">hät</w>
       <w n="4-36-3" pos="PPER" verified="no">s</w>
       <w n="4-36-4" pos="ADV" verified="no">scho</w>
-      <w n="4-36-5" pos="VVINF" verified="no">gsee</w>
+      <w n="4-36-5" pos="VVPP" verified="yes">gsee</w>
       <w n="4-36-6" pos="$." verified="no">.</w>
     </s>
     <s n="4-37">
@@ -4381,8 +4378,8 @@
       <w n="4-37-3" pos="ART" verified="no">de</w>
       <w n="4-37-4" pos="ADJA" verified="no">ganz</w>
       <w n="4-37-5" pos="NN" verified="no">Sumer</w>
-      <w n="4-37-6" pos="APPR" verified="no">dùùr</w>
-      <w n="4-37-7" pos="PIS" verified="no">käi</w>
+      <w n="4-37-6" pos="ADV" verified="yes">dùùr</w>
+      <w n="4-37-7" pos="PIAT" verified="yes">käi</w>
       <w n="4-37-8" pos="NN" verified="no">Rue</w>
       <w n="4-37-9" pos="VVPP" verified="no">gèè</w>
       <w n="4-37-10" pos="$." verified="no">.</w>
@@ -4409,7 +4406,7 @@
       <w n="4-38-18" pos="NN" verified="no">Theema</w>
       <w n="4-38-19" pos="APPR" verified="no">i</w>
       <w n="4-38-20" pos="ART" verified="no">di</w>
-      <w n="4-38-21" pos="VVINF" verified="no">hindere</w>
+      <w n="4-38-21" pos="ADJA" verified="yes">hindere</w>
       <w n="4-38-22" pos="NN" verified="no">Pünt</w>
       <w n="4-38-23" pos="VVPP" verified="no">verschobe</w>
       <w n="4-38-24" pos="VAFIN" verified="no">hett</w>
@@ -4476,7 +4473,7 @@
       <w n="5-0-8" pos="$(" verified="no">(</w>
       <w n="5-0-9" pos="CARD" verified="no">2001</w>
       <w n="5-0-10" pos="$," verified="no">,</w>
-      <w n="5-0-11" pos="VVPP" verified="no">vergriffen</w>
+      <w n="5-0-11" pos="ADJD" verified="yes">vergriffen</w>
       <w n="5-0-12" pos="$(" verified="no">)</w>
       <w n="5-0-13" pos="ADJD" verified="no">Plötzli</w>
       <w n="5-0-14" pos="VAFIN" verified="no">häd</w>
@@ -4487,7 +4484,7 @@
       <w n="5-0-19" pos="ART" verified="no">ere</w>
       <w n="5-0-20" pos="ADJA" verified="no">dräckige</w>
       <w n="5-0-21" pos="NN" verified="no">Brüe</w>
-      <w n="5-0-22" pos="PTKVZ" verified="no">ine</w>
+      <w n="5-0-22" pos="PTKVZ" verified="todo">ine</w>
       <w n="5-0-23" pos="$," verified="no">,</w>
       <w n="5-0-24" pos="KON" verified="no">und</w>
       <w n="5-0-25" pos="PPER" verified="no">er</w>
@@ -5384,7 +5381,7 @@
       <w n="6-0-1" pos="NE" verified="no">Schobinger</w>
       <w n="6-0-2" pos="ART" verified="no">Der</w>
       <w n="6-0-3" pos="NE" verified="no">Ääschme</w>
-      <w n="6-0-4" pos="VVFIN" verified="no">wììrt</w>
+      <w n="6-0-4" pos="VAFIN" verified="yes">wììrt</w>
       <w n="6-0-5" pos="VVPP" verified="no">versetzt</w>
       <w n="6-0-6" pos="$." verified="no">!</w>
     </s>
@@ -5434,7 +5431,7 @@
     <s n="6-4">
       <w n="6-4-0" pos="ART" verified="no">Der</w>
       <w n="6-4-1" pos="NE" verified="no">Ääschme</w>
-      <w n="6-4-2" pos="VVFIN" verified="no">wììrt</w>
+      <w n="6-4-2" pos="VAFIN" verified="yes">wììrt</w>
       <w n="6-4-3" pos="VVPP" verified="no">suschpändiert</w>
       <w n="6-4-4" pos="APPR" verified="no">wäge</w>
       <w n="6-4-5" pos="NN" verified="no">Kompetänzüberschriitig</w>
@@ -5958,7 +5955,7 @@
     <s n="6-39">
       <w n="6-39-0" pos="CARD" verified="no">1</w>
       <w n="6-39-1" pos="ADV" verified="no">Scho</w>
-      <w n="6-39-2" pos="APPR" verified="no">säb</w>
+      <w n="6-39-2" pos="PDAT" verified="yes">säb</w>
       <w n="6-39-3" pos="NN" verified="no">Maal</w>
       <w n="6-39-4" pos="VAFIN" verified="no">häd</w>
       <w n="6-39-5" pos="PDS" verified="no">dèè</w>
@@ -8233,7 +8230,7 @@
       <w n="9-41-10" pos="$," verified="no">,</w>
       <w n="9-41-11" pos="KON" verified="no">und</w>
       <w n="9-41-12" pos="ADV" verified="no">soo</w>
-      <w n="9-41-13" pos="VVFIN" verified="no">wììrt</w>
+      <w n="9-41-13" pos="VAFIN" verified="yes">wììrt</w>
       <w n="9-41-14" pos="ADV" verified="no">wider</w>
       <w n="9-41-15" pos="PIS" verified="no">nüüt</w>
       <w n="9-41-16" pos="PAV" verified="no">druus</w>
@@ -8420,7 +8417,7 @@
     <s n="10-1">
       <w n="10-1-0" pos="KON" verified="no">Und</w>
       <w n="10-1-1" pos="PDS" verified="no">das</w>
-      <w n="10-1-2" pos="VVFIN" verified="no">wììrt</w>
+      <w n="10-1-2" pos="VAFIN" verified="yes">wììrt</w>
       <w n="10-1-3" pos="APPR" verified="no">mit</w>
       <w n="10-1-4" pos="ART" verified="no">de</w>
       <w n="10-1-5" pos="NN" verified="no">Ziit</w>
@@ -10637,7 +10634,7 @@
       <w n="13-2-0" pos="APPR" verified="no">Us</w>
       <w n="13-2-1" pos="ART" verified="no">ere</w>
       <w n="13-2-2" pos="NN" verified="no">Vermisst­mäldig</w>
-      <w n="13-2-3" pos="VVFIN" verified="no">wììrt</w>
+      <w n="13-2-3" pos="VAFIN" verified="yes">wììrt</w>
       <w n="13-2-4" pos="ART" verified="no">en</w>
       <w n="13-2-5" pos="NN" verified="no">Erprässig</w>
       <w n="13-2-6" pos="$." verified="no">.</w>
@@ -10939,7 +10936,7 @@
     </s>
     <s n="13-23">
       <w n="13-23-0" pos="NN" verified="no">Sächzgi</w>
-      <w n="13-23-1" pos="VVFIN" verified="no">wììrt</w>
+      <w n="13-23-1" pos="VAFIN" verified="yes">wììrt</w>
       <w n="13-23-2" pos="PPER" verified="no">er</w>
       <w n="13-23-3" pos="ADV" verified="no">scho</w>
       <w n="13-23-4" pos="VAINF" verified="no">sii</w>
@@ -12156,7 +12153,7 @@
       <w n="15-0-18" pos="PPOSAT" verified="no">sineren</w>
       <w n="15-0-19" pos="NN" verified="no">Agända</w>
       <w n="15-0-20" pos="KON" verified="no">und</w>
-      <w n="15-0-21" pos="VAFIN" verified="no">wììrt</w>
+      <w n="15-0-21" pos="VAFIN" verified="yes">wììrt</w>
       <w n="15-0-22" pos="ADJD" verified="yes">verruckt</w>
       <w n="15-0-23" pos="$." verified="no">.</w>
     </s>
@@ -13987,7 +13984,7 @@
     </s>
     <s n="17-2">
       <w n="17-2-0" pos="ADV" verified="no">Dänn</w>
-      <w n="17-2-1" pos="VVFIN" verified="no">wììrt</w>
+      <w n="17-2-1" pos="VAFIN" verified="yes">wììrt</w>
       <w n="17-2-2" pos="PPER" verified="no">s</w>
       <w n="17-2-3" pos="ADV" verified="no">imer</w>
       <w n="17-2-4" pos="ADJD" verified="no">verreckter</w>
@@ -14400,7 +14397,7 @@
       <w n="17-31-8" pos="VVFIN" verified="no">verschtaat</w>
       <w n="17-31-9" pos="$," verified="no">,</w>
       <w n="17-31-10" pos="ADJD" verified="no">sicher</w>
-      <w n="17-31-11" pos="KON" verified="no">aber</w>
+      <w n="17-31-11" pos="ADV" verified="yes">aber</w>
       <w n="17-31-12" pos="VVFIN" verified="no">häisst</w>
       <w n="17-31-13" pos="$," verified="no">,</w>
       <w n="17-31-14" pos="PPER" verified="no">er</w>
