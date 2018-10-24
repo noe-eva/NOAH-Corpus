@@ -6677,7 +6677,7 @@
       <w n="3-285-5" pos="NE" verified="no">Ricardo</w>
       <w n="3-285-6" pos="NE" verified="no">Rodriguez</w>
       <w n="3-285-7" pos="VVFIN" verified="no">trainiered</w>
-      <w n="3-285-8" pos="ART" verified="no">die</w>
+      <w n="3-285-8" pos="PDAT" verified="yes">die</w>
       <w n="3-285-9" pos="NN" verified="no">Wuche</w>
       <w n="3-285-10" pos="APPRART" verified="no">bim</w>
       <w n="3-285-11" pos="NN" verified="no">Fc</w>
