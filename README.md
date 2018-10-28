@@ -7,7 +7,7 @@ Such a situation is a challenging task for NLP and we would like to provide data
 # Resources
 
 ### [Get NOAH's Corpus](https://github.com/noe-eva/NOAH-Corpus/tree/master) 
-### [Get PoS-Tagging Models trained on NOAH's Corpus.](https://github.com/noe-eva/NOAH-Corpus/tree/noah-pos-models)
+### [Get PoS-Tagging Models trained on NOAH's Corpus.](https://github.com/noe-eva/NOAH-Corpus-Tagging-Models)
 
 # Publications
 
