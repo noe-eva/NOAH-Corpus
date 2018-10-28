@@ -5,6 +5,7 @@ Swiss German is a dialect continuum of the Alemannic dialect group. It comprises
 Such a situation is a challenging task for NLP and we would like to provide data and resources to serve as a stepping stone to automatically process texts written in these dialects. We compiled NOAH's Corpus of Swiss German Dialects consisting of various text genres, manually annotated with Part-of-Speech tags. Furthermore, we applied this corpus as training set to a statistical Part-of-Speech tagger and a dialect identification model.
 
 
+## [Get NOAH's Corpus](https://github.com/noe-eva/NOAH-Corpus/tree/master) [Get PoS-Tagging Models](https://github.com/noe-eva/NOAH-Corpus/tree/noah-pos-models) trained on NOAH's Corpus
 
 # Publications
 
@@ -29,4 +30,4 @@ Check out the [demo](/demo.md) of our Swiss German PoS-Tagger!
 
 # Acknowledgements
 
-We would like to thank the _Institute of Computational Linguistics_ of the University of Zürich for the financial support.
+We would like to thank the _Institute of Computational Linguistics_ of the University of Zürich for the financial support and all the students who have done some of the annotation work.
