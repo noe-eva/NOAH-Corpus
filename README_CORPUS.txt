@@ -2,9 +2,6 @@
 NOAH's Corpus of Swiss German Dialects
 **************************************
 
-*Release 2.1* -> Corrections of Release 2.0
-
-
 Content
 -------
 NOAH's Corpus of Swiss German Dialects contains five XML files.
