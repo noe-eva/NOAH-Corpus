@@ -1,6 +1,6 @@
-# Corpus
+# NOAH's Corpus
 
-We provide PoS-tag annotated Swiss German text as _xml_ files as well as a PoS-tagger model trained on NOAH's Corpus.
+We provide [PoS-tag annotated Swiss German text as _xml_ files](https://github.com/noe-eva/NOAH-Corpus/tree/master) as well as [PoS-tagger models trained on NOAH's Corpus](https://github.com/noe-eva/NOAH-Corpus/tree/noah-pos-models).
 
 
 ## Content
@@ -22,3 +22,4 @@ As the basic tagset we use the [Stuttgart-Tübingen-TagSet (STTS)](http://www.im
 The newly introduced tag **PTKINF** represents an infinitive particle like e.g. in "_ich mues **go** poschte_". It is a commonly used and therefore widely analysed phenomenon for Swiss German dialects with no corresponding word or construction in Standard German. 
 
 In order to handle *merged words*, we introduced the "**+**"-sign which can be added to any PoS tag. Since Swiss German does not have official spelling rules, words can be freely joined. Instead of splitting, we identify these merged words by using the corresponding STTS-tag for the main part and add a plus sign to show that a given word consists of more than one simple word. There are sequences of words that are commonly merged, but also less common combinations can appear as it depends on the preferences of the writer.
+
