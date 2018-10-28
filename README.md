@@ -32,4 +32,4 @@ Check out the [demo](/demo.md) of our Swiss German PoS-Tagger!
 
 # Acknowledgements
 
-We would like to thank the _Institute of Computational Linguistics_ of the University of Zürich for the financial support and all the students who have done some of the annotation work.
+We would like to thank the _Institute of Computational Linguistics_ of the University of Zurich for the financial support as well as all the students who have done some of the annotation work.
