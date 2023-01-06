@@ -29,12 +29,12 @@ The original tagset is described in "Compilation of a Swiss German Dialect Corpu
 
 Each article in the XML files contains a title and, where known, the dialect it is written in.
 
-## Model
+## Model (updated: Jan 2023)
 
 The most recent model (Jan 2023) is available on the Huggingface Model Hub: [swiss_german_pos_model](https://huggingface.co/noeminaepli/swiss_german_pos_model)
 
-## Test Set used in the ACL 2022 paper:
-###[Improving Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting Character-Level Noise](https://noe-eva.github.io/publication/acl22/)
+## Test Set used in the ACL 2022 paper
+### ACL Publication: [Improving Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting Character-Level Noise](https://noe-eva.github.io/publication/acl22/)
 
 - test_GSW_STTS.txt (annotated with [STTS](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/germantagsets/) tags)
 - test_GSW_UPOS.txt (annotated with [Universal POS](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/germantagsets/) tags)
