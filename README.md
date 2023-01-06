@@ -2,6 +2,8 @@
 
 [News: Get the most recent POS tagging model for Swiss German](https://huggingface.co/noeminaepli/swiss_german_pos_model)
 
+Scroll down for more recent information!
+
 ### Abstract (2014)
 
 Swiss German is a dialect continuum of the Alemannic dialect group. It comprises numerous varieties used in the German-speaking part of Switzerland. Although mainly oral varieties (_Mundarten_), they are frequently used in written communication. On the basis of their high acceptance in the Swiss culture and with the introduction of digital communication, Swiss German has undergone a spread over all kinds of communication forms and social media. Considering the lack of standard spelling rules, this leads to a huge linguistic variability because people write the way they speak. 
